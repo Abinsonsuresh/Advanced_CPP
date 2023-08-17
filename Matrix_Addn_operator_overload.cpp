@@ -11,6 +11,8 @@ void input();
 void Display();
 // void MAt();
 void operator+(Matrix x);
+//with class return type 
+//Matrix operator+(Matrix a);
 };
 
 void Matrix:: input(){
